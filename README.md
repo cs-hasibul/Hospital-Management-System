@@ -1,1 +1,1 @@
-# cmhmanagementsystem
+# hospitalmanagementsystem
